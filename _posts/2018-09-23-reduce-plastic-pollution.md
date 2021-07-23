@@ -14,5 +14,5 @@ image: assets/images/2.jpg
 6. If it’s plastic… think twice. Whether at the grocery or shopping for clothes. If it contains plastic just don’t buy it.
 7. Share this lifestyle like crazy! If everyone had this conscious mindset, think of how much cleaner our Earth would be. Check out my video for more details on how you can reduce plastic pollution
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YPGWAVZs_ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YPGWAVZs_ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
