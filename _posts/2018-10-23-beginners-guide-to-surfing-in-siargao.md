@@ -3,7 +3,7 @@ layout: post
 title:  "Beginner's Guide to Surfing in Siargao"
 author: Summer
 categories: [ Travel ]
-image: assets/images/2.jpg
+image: assets/images/surf-siargao.jpg
 ---
 So you just landed in the Surfing Capital of the Philippines!!! CONGRATS! I know it can seem a bit intimidating so I made this little guide to help you cross Surfing off your bucket list.
 
