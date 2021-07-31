@@ -7,6 +7,9 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Blog
+  url: "blog/"
+
 - title: Contact
   url: "contact/"
 
@@ -21,11 +24,14 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Blog
+  url: "blog/"
 
 - title: Contact
   url: "contact/"
+
+- title: Privacy Policy
+  url: "privacy-policy/"
 
 - title: Follow
   url: https://twitch.tv/summerislive 
