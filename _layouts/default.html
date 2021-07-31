@@ -26,6 +26,10 @@ gtag('config', '{{site.ganalytics}}');
 </script>
 {% endif %}
    
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+ 
 </head>   
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
