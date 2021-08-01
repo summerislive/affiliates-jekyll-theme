@@ -2,7 +2,7 @@
 layout: post
 title:  "7 Ways to Reduce Plastic Pollution"
 author: Summer
-categories: [ Sustainability, Green Living ]
+categories: [ Sustainability ]
 image: assets/images/cleanup.jpg
 ---
 ## Here are 7 quick and easy ways you can reduce your plastic pollution:

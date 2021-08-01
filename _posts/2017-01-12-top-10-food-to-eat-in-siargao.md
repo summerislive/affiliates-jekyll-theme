@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 10 Food to Eat in Siargao"
 author: Summer
-categories: [ Travel, Food ]
+categories: [ Food ]
 image: assets/images/coconutchiaresize.png
 ---
 If you know me, you know that food is the way to my heart. Well, Siargao definitely found its way to my heart and has officially become one of my favorite food trip places in the Philippines. If you’re not surfing or exploring the island you should definitely spend the rest of your time eating at one of the island’s scrumptious restos/cafes. Here are my top 10 places to eat in Siargao:

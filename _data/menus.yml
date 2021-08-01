@@ -10,6 +10,9 @@ topmenu:
 - title: Blog
   url: "blog/"
 
+- title: Blogs
+  url: "categories/"
+
 - title: Contact
   url: "contact/"
 
