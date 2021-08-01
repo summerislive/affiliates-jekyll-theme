@@ -12,7 +12,12 @@ topmenu:
 
 - title: Blogs
   url: "categories/"
-
+  sublinks:
+    - title: Blog
+      url: "blog/"
+    - title: About
+      url: "about/"
+  
 - title: Contact
   url: "contact/"
 

@@ -83,10 +83,27 @@ gtag('config', '{{site.ganalytics}}');
           
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
-              {% for item in site.data.menus.topmenu %}
-              <li class="nav-item">
-                <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
-              </li>
+              {% for link in site.data.menus.topmenu %}
+                {% if link.sublinks %}
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" alt="{{link.title}}">{{link.title}} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      {% for sublink in link.sublinks %}
+                        {% if sublink.title == 'separator' %}
+                          <li role="separator" class="divider"></li>
+                        {% else %}
+                          <li>
+                            <a class="nav-link px-3 {% if sublink.class %}{{sublink.class}}{% endif %}" href="{% unless sublink.external %}{{site.baseurl}}/{% endunless %}{{sublink.url}}" alt="{{sublink.title}}">{{sublink.title}}</a>
+                          </li>
+                        {% endif %}
+                      {% endfor %}
+                    </ul>
+                  </li>
+                {% else %}
+                  <li class="nav-item">
+                    <a class="nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" href="{% unless link.external %}{{site.baseurl}}/{% endunless %}{{link.url}}" alt="{{link.title}}">{{link.title}}</a>
+                  </li>
+                {% endif %}
               {% endfor %}
             </ul>
           </div>
@@ -130,7 +147,7 @@ gtag('config', '{{site.ganalytics}}');
 <!-- JavaScript
 ================================================== -->    
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
-<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
+<script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>   
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
     
 </body>
