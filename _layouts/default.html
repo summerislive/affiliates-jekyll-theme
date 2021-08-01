@@ -87,10 +87,10 @@ gtag('config', '{{site.ganalytics}}');
                 {% if link.sublinks %}
                   <li class="dropdown">
                     <a class="dropdown-toggle nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" alt="{{link.title}}">{{link.title}} <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                       {% for sublink in link.sublinks %}
-                        {% if sublink.title == 'separator' %}
-                          <li role="separator" class="divider"></li>
+                        {% if sublink.title == '---' %}
+                          <li><hr class="dropdown-divider"></li>
                         {% else %}
                           <li>
                             <a class="nav-link px-3 {% if sublink.class %}{{sublink.class}}{% endif %}" href="{% unless sublink.external %}{{site.baseurl}}/{% endunless %}{{sublink.url}}" alt="{{sublink.title}}">{{sublink.title}}</a>
