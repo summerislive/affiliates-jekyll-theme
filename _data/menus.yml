@@ -7,20 +7,25 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Blog
-  url: "blog/"
-
-- title: Blogs
-  url: "categories/"
+- title: Blogs 
   sublinks:
-    - title: Blog
+    
+    - title: Travel
+      url: "about/"
+    - title: Food
+      url: "about/"
+    - title: Gaming
       url: "blog/"
-    - title: About
-      url: "about/"
+    - title: Music
+      url: "blog/"
+    - title: Marketing
+      url: "blog/"
+    - title: Sustainability
+      url: "blog/"
     - title: ---
-    - title: About
-      url: "about/"
-  
+    - title: All
+      url: "blog/"
+
 - title: Contact
   url: "contact/"
 
