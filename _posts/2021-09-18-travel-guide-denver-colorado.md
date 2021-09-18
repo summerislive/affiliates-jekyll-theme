@@ -50,7 +50,7 @@ I only had the chance to eat breakfast at The Nickel, but it was delicious! Ther
     ![wall art](/assets/images/graffiti.jpg)
 
 **7. Garden of the Gods**
-     ![gardenofthegods](/assets/images/gardenofthegods.jpg)
+     ![gardenofthegods](/assets/images/gardenofthegods.JPG)
 
 **8. Washington Park**
     ![washington](/assets/images/washingtonpark.jpg)
