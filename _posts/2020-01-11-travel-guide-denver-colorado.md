@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Travel Guide: Denver Colorado"
+title:  "Travel Guide Denver Colorado"
 author: Summer
 categories: [ Travel ]
 image: assets/images/DenverCover.jpg
