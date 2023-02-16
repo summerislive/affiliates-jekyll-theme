@@ -7,6 +7,15 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Music
+  url: "music/"
+
+  - title: Gaming
+  url: "gaming/"
+
+- title: Services
+  url: "services/"
+
 - title: Blogs 
   sublinks:
     
@@ -25,6 +34,8 @@ topmenu:
     - title: ---
     - title: All
       url: "blog/"
+
+
 
 - title: Contact
   url: "contact/"
