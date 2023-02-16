@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gaming
-permalink: "/Gaming/"
+permalink: "/gaming/"
 image: assets/images/SummerAnimated.png
 ---
 

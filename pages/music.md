@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-permalink: "/Music/"
+permalink: "/music/"
 image: assets/images/SummerAnimated.png
 ---
 
