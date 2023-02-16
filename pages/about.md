@@ -5,7 +5,7 @@ permalink: "/about/"
 image: assets/images/SummerAnimated.png
 ---
 
-My name is Summer aka Moana! I am a Filipino-American musician, dancer, digital marketer, host, livestreamer and gamer. I live and create to encourage people to Walk in Love! My hope is to send a little bit of positivity and light into your life and encourage you to live with intention.
+My name is Summer aka Moana! I am a Filipino-American musician, dancer, digital marketer, host, livestreamer and gamer. I live and create to encourage people to Walk in Love! My hope is to send a little bit of positivity into your life and encourage you to live with intention.
 
 [Instagram](http://instagram.com/summerislive_) |
 [Twitch](http://twitch.tv/summerislive) |
