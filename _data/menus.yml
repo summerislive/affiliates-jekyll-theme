@@ -32,8 +32,6 @@ topmenu:
       url: "blog/"
     - title: Marketing
       url: "blog/"
-    - title: Sustainability
-      url: "blog/"
     - title: ---
     - title: All
       url: "blog/"
@@ -53,6 +51,15 @@ footermenu:
 
 - title: Home
   url: ""
+
+- title: Music
+  url: "music/"
+
+  - title: Gaming
+  url: "gaming/"
+
+- title: Services
+  url: "services/"
 
 - title: Blog
   url: "blog/"
