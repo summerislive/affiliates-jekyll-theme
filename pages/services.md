@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-permalink: "/Services/"
+permalink: "/services/"
 image: assets/images/SummerAnimated.png
 ---
 
