@@ -7,8 +7,8 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Music
-  url: "music/"
+- title: About
+  url: "about/"
 
 - title: Gaming
   url: "gaming/"
@@ -32,11 +32,8 @@ topmenu:
       url: "blog/"
     - title: Marketing
       url: "blog/"
-    - title: ---
     - title: All
       url: "blog/"
-
-
 
 - title: Contact
   url: "contact/"
@@ -72,4 +69,4 @@ footermenu:
 
 - title: Follow
   url: https://twitch.tv/summerislive 
-  external: true
+  external: tr ue
