@@ -7,8 +7,8 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: About
-  url: "about/"
+- title: Music
+  url: "music/"
 
 - title: Gaming
   url: "gaming/"
@@ -29,7 +29,7 @@ topmenu:
     - title: Gaming
       url: "blog/"
     - title: Music
-      url: "blog/"
+      url: "music/"
     - title: Marketing
       url: "blog/"
     - title: All
