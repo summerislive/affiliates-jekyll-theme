@@ -52,7 +52,7 @@ footermenu:
 - title: Music
   url: "music/"
 
-  - title: Gaming
+- title: Gaming
   url: "gaming/"
 
 - title: Services
